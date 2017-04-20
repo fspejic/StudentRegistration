@@ -1,5 +1,5 @@
-* STUDENT REGISTRATION
+# STUDENT REGISTRATION
 
-** Learning
+## Learning
 
 Learning python and git :)
